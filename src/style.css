@@ -1,0 +1,9 @@
+@import "../node_modules/bootstrap/dist/css/bootstrap.css";
+
+button{
+    font-size: 10px;
+}
+
+h1{
+    margin: 10px;
+}
